@@ -1,0 +1,18 @@
+Warning: QObject::connect: No such slot GraphDialog::mousePress() in GraphDialog.cpp:22
+Warning: QObject::connect:  (sender name:   'qcustomplot')
+Warning: QObject::connect:  (receiver name: 'Dialog')
+Warning: QObject::connect: No such slot GraphDialog::mouseWheel() in GraphDialog.cpp:23
+Warning: QObject::connect:  (sender name:   'qcustomplot')
+Warning: QObject::connect:  (receiver name: 'Dialog')
+Warning: QObject::connect: No such slot GraphDialog::selectionChanged() in GraphDialog.cpp:24
+Warning: QObject::connect:  (sender name:   'qcustomplot')
+Warning: QObject::connect:  (receiver name: 'Dialog')
+Warning: QObject::connect: No such slot GraphDialog::mousePress() in GraphDialog.cpp:22
+Warning: QObject::connect:  (sender name:   'qcustomplot')
+Warning: QObject::connect:  (receiver name: 'Dialog')
+Warning: QObject::connect: No such slot GraphDialog::mouseWheel() in GraphDialog.cpp:23
+Warning: QObject::connect:  (sender name:   'qcustomplot')
+Warning: QObject::connect:  (receiver name: 'Dialog')
+Warning: QObject::connect: No such slot GraphDialog::selectionChanged() in GraphDialog.cpp:24
+Warning: QObject::connect:  (sender name:   'qcustomplot')
+Warning: QObject::connect:  (receiver name: 'Dialog')

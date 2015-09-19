@@ -1,0 +1,392 @@
+Debug: Stop Server UI  ----周六 二月 21 19:19:27 2015----
+Debug: Start Server UI  ----周六 二月 21 19:23:48 2015----
+Debug: Start Setting Dialog  ----周六 二月 21 19:23:55 2015----
+Debug: Start Graph Dialog  ----周六 二月 21 19:24:07 2015----
+Debug: Stop Server UI  ----周六 二月 21 19:24:10 2015----
+Debug: Start Server UI  ----周六 二月 21 19:25:23 2015----
+Debug: Start Setting Dialog  ----周六 二月 21 19:25:31 2015----
+Debug: Start Setting Dialog  ----周六 二月 21 19:27:10 2015----
+Debug: Start Graph Dialog  ----周六 二月 21 19:28:20 2015----
+Debug: Stop Server UI  ----周六 二月 21 19:28:42 2015----
+Debug: Start Server UI  ----周六 二月 21 19:30:40 2015----
+Debug: Stop Server UI  ----周六 二月 21 19:30:42 2015----
+Debug: Start Server UI  ----周六 二月 21 19:35:23 2015----
+Debug: Stop Server UI  ----周六 二月 21 19:37:57 2015----
+Debug: Start Server UI  ----周六 二月 21 19:38:03 2015----
+Debug: Stop Server UI  ----周六 二月 21 19:38:05 2015----
+Debug: Start Server UI  ----周六 二月 21 19:38:27 2015----
+Debug: Start Setting Dialog  ----周六 二月 21 19:38:29 2015----
+Debug: Setting OK  ----周六 二月 21 19:38:30 2015----
+Debug: Start Server UI  ----周六 二月 21 19:40:28 2015----
+Debug: Start Setting Dialog  ----周六 二月 21 19:40:29 2015----
+Debug: Setting Cancel  ----周六 二月 21 19:40:30 2015----
+Debug: Start Setting Dialog  ----周六 二月 21 19:40:32 2015----
+Debug: Setting OK  ----周六 二月 21 19:40:33 2015----
+Debug: Start Server UI  ----周六 二月 21 19:41:46 2015----
+Debug: Stop Server UI  ----周六 二月 21 19:42:13 2015----
+Debug: Start Server UI  ----周四 二月 26 19:30:11 2015----
+Debug: Start Setting Dialog  ----周四 二月 26 19:31:41 2015----
+Debug: Start Graph Dialog  ----周四 二月 26 19:31:44 2015----
+Debug: Start Setting Dialog  ----周四 二月 26 19:32:49 2015----
+Debug: Start Graph Dialog  ----周四 二月 26 19:32:52 2015----
+Debug: Start Setting Dialog  ----周四 二月 26 19:32:54 2015----
+Debug: Stop Server UI  ----周四 二月 26 19:32:56 2015----
+Debug: Start Server UI  ----周日 三月 1 20:25:18 2015----
+Debug: Start Graph Dialog  ----周日 三月 1 20:28:33 2015----
+Debug: Start Setting Dialog  ----周日 三月 1 20:30:42 2015----
+Debug: Stop Server UI  ----周日 三月 1 20:30:44 2015----
+Debug: Start Server UI  ----周一 三月 2 19:32:15 2015----
+Debug: Start Server  ----周一 三月 2 19:32:53 2015----
+Debug: thread  ----周一 三月 2 19:32:53 2015----
+Debug: Stop Server  ----周一 三月 2 19:33:25 2015----
+Debug: Start Server  ----周一 三月 2 19:44:17 2015----
+Debug: thread  ----周一 三月 2 19:44:17 2015----
+Debug: Stop Server  ----周一 三月 2 19:45:58 2015----
+Debug: Start Server  ----周一 三月 2 19:45:59 2015----
+Debug: thread  ----周一 三月 2 19:45:59 2015----
+Debug: Stop Server  ----周一 三月 2 19:46:01 2015----
+Debug: Start Server  ----周一 三月 2 19:46:46 2015----
+Debug: thread  ----周一 三月 2 19:46:46 2015----
+Debug: Stop Server  ----周一 三月 2 19:46:53 2015----
+Debug: Stop Server UI  ----周一 三月 2 19:46:58 2015----
+Debug: Start Server UI  ----周一 三月 2 19:50:12 2015----
+Debug: Start Server  ----周一 三月 2 19:50:13 2015----
+Debug: thread  ----周一 三月 2 19:50:13 2015----
+Debug: Start Graph Dialog  ----周一 三月 2 19:51:37 2015----
+Debug: Start Graph Dialog  ----周一 三月 2 19:51:43 2015----
+Debug: Start Graph Dialog  ----周一 三月 2 19:51:47 2015----
+Debug: Start Graph Dialog  ----周一 三月 2 19:51:51 2015----
+Debug: Start Graph Dialog  ----周一 三月 2 19:51:55 2015----
+Debug: Stop Server UI  ----周一 三月 2 19:51:59 2015----
+Debug: Start Server UI  ----周二 三月 17 14:46:47 2015----
+Debug: Start Setting Dialog  ----周二 三月 17 14:46:59 2015----
+Debug: Start Graph Dialog  ----周二 三月 17 14:47:06 2015----
+Debug: Start Setting Dialog  ----周二 三月 17 14:47:09 2015----
+Debug: Start Server  ----周二 三月 17 14:47:17 2015----
+Debug: thread  ----周二 三月 17 14:47:17 2015----
+Debug: Stop Server  ----周二 三月 17 14:47:19 2015----
+Debug: Start Setting Dialog  ----周二 三月 17 14:47:20 2015----
+Debug: Stop Server UI  ----周二 三月 17 14:47:23 2015----
+Debug: Start Server UI  ----周二 三月 17 15:42:02 2015----
+Debug: Start Graph Dialog  ----周二 三月 17 15:42:24 2015----
+Debug: Start Setting Dialog  ----周二 三月 17 15:42:28 2015----
+Debug: Start Graph Dialog  ----周二 三月 17 15:42:59 2015----
+Debug: Stop Server UI  ----周二 三月 17 16:24:48 2015----
+Debug: Start Server UI  ----周四 三月 19 12:53:48 2015----
+Debug: Start Setting Dialog  ----周四 三月 19 12:53:57 2015----
+Debug: Stop Server UI  ----周四 三月 19 12:54:05 2015----
+Debug: Start Server UI  ----周四 三月 19 12:58:57 2015----
+Debug: Start Setting Dialog  ----周四 三月 19 12:59:00 2015----
+Debug: Start Server  ----周四 三月 19 12:59:03 2015----
+Debug: thread  ----周四 三月 19 12:59:03 2015----
+Debug: Start Setting Dialog  ----周四 三月 19 12:59:03 2015----
+Debug: Stop Server UI  ----周四 三月 19 12:59:08 2015----
+Debug: Start Server UI  ----周四 三月 19 13:16:53 2015----
+Debug: Start Server  ----周四 三月 19 13:16:55 2015----
+Debug: thread  ----周四 三月 19 13:16:55 2015----
+Debug: Stop Server  ----周四 三月 19 13:19:13 2015----
+Debug: Start Server  ----周四 三月 19 13:20:15 2015----
+Debug: thread  ----周四 三月 19 13:20:15 2015----
+Debug: Stop Server UI  ----周四 三月 19 13:21:02 2015----
+Debug: Start Server UI  ----周四 三月 19 13:33:10 2015----
+Debug: Start Server  ----周四 三月 19 13:33:12 2015----
+Debug: thread  ----周四 三月 19 13:33:12 2015----
+Debug: Start Graph Dialog  ----周四 三月 19 13:33:29 2015----
+Debug: Stop Server  ----周四 三月 19 13:33:58 2015----
+Debug: Stop Server UI  ----周四 三月 19 13:34:09 2015----
+Debug: Start Server UI  ----周四 三月 19 13:36:43 2015----
+Debug: Stop Server UI  ----周四 三月 19 13:36:48 2015----
+Debug: Start Server UI  ----周四 三月 19 13:43:05 2015----
+Debug: Start Server  ----周四 三月 19 13:43:08 2015----
+Debug: thread  ----周四 三月 19 13:43:08 2015----
+Debug: Stop Server  ----周四 三月 19 13:43:10 2015----
+Debug: Stop Server UI  ----周四 三月 19 13:43:22 2015----
+Debug: Start Server UI  ----周四 三月 19 13:44:00 2015----
+Debug: Start Setting Dialog  ----周四 三月 19 13:44:04 2015----
+Debug: Start Graph Dialog  ----周四 三月 19 13:44:06 2015----
+Debug: Stop Server UI  ----周四 三月 19 13:44:13 2015----
+Debug: Start Server UI  ----周四 三月 19 13:53:05 2015----
+Debug: Start Setting Dialog  ----周四 三月 19 13:53:08 2015----
+Debug: Start Server  ----周四 三月 19 13:53:10 2015----
+Debug: thread  ----周四 三月 19 13:53:10 2015----
+Debug: Start Setting Dialog  ----周四 三月 19 13:53:10 2015----
+Debug: Stop Server UI  ----周四 三月 19 13:53:13 2015----
+Debug: Start Server UI  ----周四 三月 19 13:54:23 2015----
+Debug: Start Server  ----周四 三月 19 13:57:43 2015----
+Debug: thread  ----周四 三月 19 13:57:43 2015----
+Debug: Start Graph Dialog  ----周四 三月 19 13:57:47 2015----
+Debug: Stop Server UI  ----周四 三月 19 13:58:57 2015----
+Debug: Start Server UI  ----周四 三月 19 14:01:35 2015----
+Debug: Start Server  ----周四 三月 19 14:05:52 2015----
+Debug: thread  ----周四 三月 19 14:05:52 2015----
+Debug: Stop Server UI  ----周四 三月 19 14:06:04 2015----
+Debug: Start Server UI  ----周四 三月 19 14:10:15 2015----
+Debug: Start Server  ----周四 三月 19 14:10:16 2015----
+Debug: thread  ----周四 三月 19 14:10:16 2015----
+Debug: Stop Server UI  ----周四 三月 19 14:10:34 2015----
+Debug: Start Server UI  ----周四 三月 19 14:11:35 2015----
+Debug: Start Server  ----周四 三月 19 14:11:37 2015----
+Debug: thread  ----周四 三月 19 14:11:37 2015----
+Debug: Stop Server UI  ----周四 三月 19 14:11:46 2015----
+Debug: Start Server UI  ----周四 三月 19 14:12:00 2015----
+Debug: Start Server  ----周四 三月 19 14:12:08 2015----
+Debug: thread  ----周四 三月 19 14:12:08 2015----
+Debug: Stop Server UI  ----周四 三月 19 14:12:17 2015----
+Debug: Start Server UI  ----周四 三月 19 14:14:13 2015----
+Debug: Start Server  ----周四 三月 19 14:14:15 2015----
+Debug: thread  ----周四 三月 19 14:14:15 2015----
+Debug: Stop Server UI  ----周四 三月 19 14:14:25 2015----
+Debug: Start Server UI  ----周四 三月 19 14:18:58 2015----
+Debug: Start Server  ----周四 三月 19 14:19:00 2015----
+Debug: thread  ----周四 三月 19 14:19:00 2015----
+Debug: Stop Server UI  ----周四 三月 19 14:19:03 2015----
+Debug: Start Server UI  ----周四 三月 19 14:20:10 2015----
+Debug: Start Setting Dialog  ----周四 三月 19 14:20:13 2015----
+Debug: Stop Server UI  ----周四 三月 19 14:22:46 2015----
+Debug: Start Server UI  ----周四 三月 19 14:22:50 2015----
+Debug: Start Server  ----周四 三月 19 14:22:53 2015----
+Debug: thread  ----周四 三月 19 14:22:53 2015----
+Debug: Start Graph Dialog  ----周四 三月 19 14:24:41 2015----
+Debug: Stop Server UI  ----周四 三月 19 14:25:55 2015----
+Debug: Start Server UI  ----周四 三月 19 14:39:47 2015----
+Debug: Start Server  ----周四 三月 19 14:39:49 2015----
+Debug: thread  ----周四 三月 19 14:39:49 2015----
+Debug: Stop Server  ----周四 三月 19 14:40:56 2015----
+Debug: Start Server  ----周四 三月 19 14:41:19 2015----
+Debug: thread  ----周四 三月 19 14:41:19 2015----
+Debug: Stop Server UI  ----周四 三月 19 14:44:36 2015----
+Debug: Start Server UI  ----周四 三月 19 14:46:54 2015----
+Debug: Stop Server UI  ----周四 三月 19 14:46:55 2015----
+Debug: Start Server UI  ----周四 三月 19 14:48:58 2015----
+Debug: Start Server  ----周四 三月 19 14:49:05 2015----
+Debug: thread  ----周四 三月 19 14:49:05 2015----
+Debug: Start Graph Dialog  ----周四 三月 19 14:49:42 2015----
+Debug: Stop Server UI  ----周四 三月 19 15:01:20 2015----
+Debug: Start Server UI  ----周四 三月 19 15:01:28 2015----
+Debug: Start Server  ----周四 三月 19 15:01:29 2015----
+Debug: thread  ----周四 三月 19 15:01:29 2015----
+Debug: Start Graph Dialog  ----周四 三月 19 15:06:16 2015----
+Debug: Start Graph Dialog  ----周四 三月 19 15:06:20 2015----
+Debug: Start Graph Dialog  ----周四 三月 19 15:06:35 2015----
+Debug: Start Graph Dialog  ----周四 三月 19 15:06:41 2015----
+Debug: Stop Server UI  ----周四 三月 19 15:07:49 2015----
+Debug: Start Server UI  ----周四 三月 19 15:08:38 2015----
+Debug: Start Server  ----周四 三月 19 15:08:52 2015----
+Debug: thread  ----周四 三月 19 15:08:52 2015----
+Debug: Start Graph Dialog  ----周四 三月 19 15:09:24 2015----
+Debug: Start Graph Dialog  ----周四 三月 19 15:09:27 2015----
+Debug: Start Graph Dialog  ----周四 三月 19 15:09:39 2015----
+Debug: Start Graph Dialog  ----周四 三月 19 15:09:43 2015----
+Debug: Stop Server UI  ----周四 三月 19 15:10:17 2015----
+Debug: Start Server UI  ----周四 三月 19 15:18:20 2015----
+Debug: Stop Server UI  ----周四 三月 19 15:18:48 2015----
+Debug: Start Server UI  ----周四 三月 19 15:29:19 2015----
+Debug: Start Server  ----周四 三月 19 15:29:31 2015----
+Debug: thread  ----周四 三月 19 15:29:31 2015----
+Debug: Stop Server UI  ----周四 三月 19 15:29:52 2015----
+Debug: Start Server UI  ----周四 三月 19 16:31:05 2015----
+Debug: Start Graph Dialog  ----周四 三月 19 16:31:11 2015----
+Debug: Start Setting Dialog  ----周四 三月 19 16:31:14 2015----
+Debug: Stop Server UI  ----周四 三月 19 16:31:15 2015----
+Debug: Start Server UI  ----周四 三月 19 16:38:36 2015----
+Debug: Start Server  ----周四 三月 19 16:38:45 2015----
+Debug: thread  ----周四 三月 19 16:38:45 2015----
+Debug: Stop Server UI  ----周四 三月 19 16:39:03 2015----
+Debug: Start Server UI  ----周四 三月 19 16:39:10 2015----
+Debug: Start Server  ----周四 三月 19 16:39:14 2015----
+Debug: thread  ----周四 三月 19 16:39:14 2015----
+Debug: Stop Server UI  ----周四 三月 19 16:46:13 2015----
+Debug: Start Server UI  ----周四 三月 19 16:48:03 2015----
+Debug: Stop Server UI  ----周四 三月 19 16:48:05 2015----
+Debug: Start Server UI  ----周四 三月 19 16:52:20 2015----
+Debug: Start Server  ----周四 三月 19 16:55:06 2015----
+Debug: thread  ----周四 三月 19 16:55:06 2015----
+Debug: Start Graph Dialog  ----周四 三月 19 16:55:07 2015----
+Debug: Stop Server UI  ----周四 三月 19 16:58:04 2015----
+Debug: Start Server UI  ----周四 三月 19 17:00:58 2015----
+Debug: Start Setting Dialog  ----周四 三月 19 17:01:43 2015----
+Debug: Setting OK  ----周四 三月 19 17:01:47 2015----
+Debug: Start Server UI  ----周四 三月 19 17:02:04 2015----
+Debug: Start Setting Dialog  ----周四 三月 19 17:02:05 2015----
+Debug: Setting OK  ----周四 三月 19 17:02:10 2015----
+Debug: Start Server UI  ----周四 三月 19 17:02:53 2015----
+Debug: Start Setting Dialog  ----周四 三月 19 17:02:55 2015----
+Debug: Setting OK  ----周四 三月 19 17:02:56 2015----
+Debug: Start Server UI  ----周四 三月 19 17:03:26 2015----
+Debug: Start Setting Dialog  ----周四 三月 19 17:03:29 2015----
+Debug: Setting OK  ----周四 三月 19 17:03:30 2015----
+Debug: Start Server UI  ----周四 三月 19 17:24:37 2015----
+Debug: Start Setting Dialog  ----周四 三月 19 17:24:38 2015----
+Debug: Setting Cancel  ----周四 三月 19 17:24:40 2015----
+Debug: Start Setting Dialog  ----周四 三月 19 17:24:41 2015----
+Debug: Setting OK  ----周四 三月 19 17:24:42 2015----
+Debug: Start Server UI  ----周四 三月 19 17:25:10 2015----
+Debug: Start Setting Dialog  ----周四 三月 19 17:25:12 2015----
+Debug: Setting OK  ----周四 三月 19 17:25:14 2015----
+Debug: Start Server UI  ----周四 三月 19 17:34:34 2015----
+Debug: Start Setting Dialog  ----周四 三月 19 17:34:36 2015----
+Debug: Setting OK  ----周四 三月 19 17:34:37 2015----
+Debug: Start Server UI  ----周四 三月 19 17:34:52 2015----
+Debug: Stop Server UI  ----周四 三月 19 17:34:53 2015----
+Debug: Start Server UI  ----周四 三月 19 17:37:05 2015----
+Debug: Start Setting Dialog  ----周四 三月 19 17:37:07 2015----
+Debug: Setting OK  ----周四 三月 19 17:37:08 2015----
+Debug: Start Server UI  ----周四 三月 19 17:37:36 2015----
+Debug: Start Setting Dialog  ----周四 三月 19 17:37:46 2015----
+Debug: Setting OK  ----周四 三月 19 17:38:07 2015----
+Debug: Start Server UI  ----周四 三月 19 17:42:58 2015----
+Debug: Start Setting Dialog  ----周四 三月 19 17:43:00 2015----
+Debug: Setting OK  ----周四 三月 19 17:43:06 2015----
+Debug: Start Server UI  ----周四 三月 19 17:52:36 2015----
+Debug: Start Setting Dialog  ----周四 三月 19 17:52:46 2015----
+Debug: Setting OK  ----周四 三月 19 17:52:47 2015----
+Debug: Start Setting Dialog  ----周四 三月 19 17:52:50 2015----
+Debug: Stop Server UI  ----周四 三月 19 17:52:51 2015----
+Debug: Start Server UI  ----周四 三月 19 18:03:37 2015----
+Debug: Stop Server UI  ----周四 三月 19 18:14:43 2015----
+Debug: Start Server UI  ----周四 三月 19 21:44:50 2015----
+Debug: Start Server  ----周四 三月 19 21:44:56 2015----
+Debug: thread  ----周四 三月 19 21:44:56 2015----
+Debug: Stop Server  ----周四 三月 19 21:45:00 2015----
+Debug: Start Server  ----周四 三月 19 21:45:01 2015----
+Debug: thread  ----周四 三月 19 21:45:01 2015----
+Debug: Stop Server UI  ----周四 三月 19 21:47:07 2015----
+Debug: Start Server UI  ----周五 三月 20 17:58:10 2015----
+Debug: Start Server  ----周五 三月 20 18:01:56 2015----
+Debug: thread  ----周五 三月 20 18:01:56 2015----
+Debug: Start Graph Dialog  ----周五 三月 20 18:02:47 2015----
+Debug: Start Graph Dialog  ----周五 三月 20 18:02:51 2015----
+Debug: Start Graph Dialog  ----周五 三月 20 18:02:56 2015----
+Debug: Start Graph Dialog  ----周五 三月 20 18:02:59 2015----
+Debug: Start Graph Dialog  ----周五 三月 20 18:03:03 2015----
+Debug: Stop Server UI  ----周五 三月 20 18:03:43 2015----
+Debug: Start Server UI  ----周五 三月 20 18:03:47 2015----
+Debug: Start Server  ----周五 三月 20 18:03:49 2015----
+Debug: thread  ----周五 三月 20 18:03:49 2015----
+Debug: Start Graph Dialog  ----周五 三月 20 18:03:56 2015----
+Debug: Start Graph Dialog  ----周五 三月 20 18:03:59 2015----
+Debug: Start Graph Dialog  ----周五 三月 20 18:04:03 2015----
+Debug: Start Graph Dialog  ----周五 三月 20 18:04:06 2015----
+Debug: Start Graph Dialog  ----周五 三月 20 18:04:10 2015----
+Debug: Start Graph Dialog  ----周五 三月 20 18:04:16 2015----
+Debug: Start Graph Dialog  ----周五 三月 20 18:04:19 2015----
+Debug: Start Setting Dialog  ----周五 三月 20 18:04:27 2015----
+Debug: Start Graph Dialog  ----周五 三月 20 18:04:30 2015----
+Debug: Start Graph Dialog  ----周五 三月 20 18:04:43 2015----
+Debug: Start Graph Dialog  ----周五 三月 20 18:04:48 2015----
+Debug: Start Graph Dialog  ----周五 三月 20 18:05:16 2015----
+Debug: Stop Server UI  ----周五 三月 20 18:06:37 2015----
+Debug: Start Server UI  ----周五 三月 20 18:07:06 2015----
+Debug: Stop Server UI  ----周五 三月 20 18:07:07 2015----
+Debug: Start Server UI  ----周五 三月 20 18:07:39 2015----
+Debug: Start Graph Dialog  ----周五 三月 20 18:07:45 2015----
+Debug: Start Setting Dialog  ----周五 三月 20 18:07:59 2015----
+Debug: Stop Server UI  ----周五 三月 20 18:09:12 2015----
+Debug: Start Server UI  ----周六 三月 21 18:26:15 2015----
+Debug: Stop Server UI  ----周六 三月 21 18:27:47 2015----
+Debug: Start Server UI  ----周日 三月 22 10:47:50 2015----
+Debug: Start Server  ----周日 三月 22 10:48:54 2015----
+Debug: thread  ----周日 三月 22 10:48:54 2015----
+Debug: Stop Server  ----周日 三月 22 10:48:57 2015----
+Debug: Start Graph Dialog  ----周日 三月 22 10:48:58 2015----
+Debug: Start Graph Dialog  ----周日 三月 22 10:49:01 2015----
+Debug: Start Setting Dialog  ----周日 三月 22 10:49:03 2015----
+Debug: Start Server  ----周日 三月 22 10:49:06 2015----
+Debug: thread  ----周日 三月 22 10:49:06 2015----
+Debug: Start Setting Dialog  ----周日 三月 22 10:49:07 2015----
+Debug: Stop Server UI  ----周日 三月 22 10:49:08 2015----
+Debug: Start Server UI  ----周日 三月 22 10:50:12 2015----
+Debug: Start Graph Dialog  ----周日 三月 22 10:50:59 2015----
+Debug: Start Setting Dialog  ----周日 三月 22 10:51:03 2015----
+Debug: Setting Cancel  ----周日 三月 22 10:51:11 2015----
+Debug: Start Server  ----周日 三月 22 10:51:14 2015----
+Debug: thread  ----周日 三月 22 10:51:14 2015----
+Debug: Stop Server  ----周日 三月 22 10:51:15 2015----
+Debug: Start Graph Dialog  ----周日 三月 22 10:51:20 2015----
+Debug: Start Graph Dialog  ----周日 三月 22 10:51:36 2015----
+Debug: Start Setting Dialog  ----周日 三月 22 10:51:38 2015----
+Debug: Setting Cancel  ----周日 三月 22 10:51:40 2015----
+Debug: Start Setting Dialog  ----周日 三月 22 10:51:43 2015----
+Debug: Setting Cancel  ----周日 三月 22 10:51:44 2015----
+Debug: Start Setting Dialog  ----周日 三月 22 10:51:45 2015----
+Debug: Setting Cancel  ----周日 三月 22 10:51:46 2015----
+Debug: Stop Server UI  ----周日 三月 22 10:51:47 2015----
+Debug: Start Server UI  ----周日 三月 22 10:52:38 2015----
+Debug: Start Setting Dialog  ----周日 三月 22 10:52:39 2015----
+Debug: Stop Server UI  ----周日 三月 22 10:52:46 2015----
+Debug: Start Server UI  ----周日 三月 22 10:53:49 2015----
+Debug: Start Graph Dialog  ----周日 三月 22 10:53:53 2015----
+Debug: Start Setting Dialog  ----周日 三月 22 10:53:56 2015----
+Debug: Stop Server UI  ----周日 三月 22 10:54:27 2015----
+Debug: Start Server UI  ----周日 三月 22 10:57:31 2015----
+Debug: Start Setting Dialog  ----周日 三月 22 10:57:33 2015----
+Debug: Start Graph Dialog  ----周日 三月 22 10:57:37 2015----
+Debug: Start Setting Dialog  ----周日 三月 22 10:57:44 2015----
+Debug: Setting Cancel  ----周日 三月 22 10:58:11 2015----
+Debug: Start Graph Dialog  ----周日 三月 22 10:58:16 2015----
+Debug: Start Setting Dialog  ----周日 三月 22 10:58:36 2015----
+Debug: Setting Cancel  ----周日 三月 22 10:58:37 2015----
+Debug: Start Server  ----周日 三月 22 10:58:45 2015----
+Debug: thread  ----周日 三月 22 10:58:45 2015----
+Debug: Stop Server  ----周日 三月 22 10:58:47 2015----
+Debug: Start Server  ----周日 三月 22 10:58:48 2015----
+Debug: thread  ----周日 三月 22 10:58:48 2015----
+Debug: Stop Server  ----周日 三月 22 10:58:48 2015----
+Debug: Start Server  ----周日 三月 22 10:58:48 2015----
+Debug: thread  ----周日 三月 22 10:58:48 2015----
+Debug: Stop Server  ----周日 三月 22 10:58:49 2015----
+Debug: Start Server  ----周日 三月 22 10:58:49 2015----
+Debug: thread  ----周日 三月 22 10:58:49 2015----
+Debug: Stop Server  ----周日 三月 22 10:58:50 2015----
+Debug: Start Server  ----周日 三月 22 10:58:50 2015----
+Debug: thread  ----周日 三月 22 10:58:50 2015----
+Debug: Stop Server  ----周日 三月 22 10:58:50 2015----
+Debug: Start Server  ----周日 三月 22 10:58:51 2015----
+Debug: thread  ----周日 三月 22 10:58:51 2015----
+Debug: Stop Server  ----周日 三月 22 10:58:52 2015----
+Debug: Start Server  ----周日 三月 22 10:58:52 2015----
+Debug: thread  ----周日 三月 22 10:58:52 2015----
+Debug: Stop Server  ----周日 三月 22 10:58:53 2015----
+Debug: Start Server  ----周日 三月 22 10:58:53 2015----
+Debug: thread  ----周日 三月 22 10:58:53 2015----
+Debug: Stop Server  ----周日 三月 22 10:58:53 2015----
+Debug: Start Server  ----周日 三月 22 10:58:54 2015----
+Debug: thread  ----周日 三月 22 10:58:54 2015----
+Debug: Stop Server  ----周日 三月 22 10:58:54 2015----
+Debug: Start Server  ----周日 三月 22 10:58:54 2015----
+Debug: thread  ----周日 三月 22 10:58:54 2015----
+Debug: Stop Server  ----周日 三月 22 10:58:55 2015----
+Debug: Start Server  ----周日 三月 22 10:58:55 2015----
+Debug: thread  ----周日 三月 22 10:58:55 2015----
+Debug: Stop Server  ----周日 三月 22 10:58:56 2015----
+Debug: Start Server  ----周日 三月 22 10:58:57 2015----
+Debug: thread  ----周日 三月 22 10:58:57 2015----
+Debug: Stop Server  ----周日 三月 22 10:58:57 2015----
+Debug: Start Server  ----周日 三月 22 10:58:58 2015----
+Debug: thread  ----周日 三月 22 10:58:58 2015----
+Debug: Stop Server  ----周日 三月 22 10:58:58 2015----
+Debug: Start Server  ----周日 三月 22 10:59:00 2015----
+Debug: thread  ----周日 三月 22 10:59:00 2015----
+Debug: Stop Server  ----周日 三月 22 10:59:00 2015----
+Debug: Start Server  ----周日 三月 22 10:59:01 2015----
+Debug: thread  ----周日 三月 22 10:59:01 2015----
+Debug: Stop Server  ----周日 三月 22 10:59:03 2015----
+Debug: Start Graph Dialog  ----周日 三月 22 10:59:16 2015----
+Debug: Start Graph Dialog  ----周日 三月 22 10:59:35 2015----
+Debug: Start Setting Dialog  ----周日 三月 22 10:59:37 2015----
+Debug: Setting Cancel  ----周日 三月 22 11:00:00 2015----
+Debug: Start Setting Dialog  ----周日 三月 22 11:00:01 2015----
+Debug: Start Setting Dialog  ----周日 三月 22 11:00:04 2015----
+Debug: Start Setting Dialog  ----周日 三月 22 11:00:06 2015----
+Debug: Stop Server UI  ----周日 三月 22 11:00:21 2015----
+Debug: Start Server UI  ----周三 四月 1 21:00:23 2015----
+Debug: Stop Server UI  ----周三 四月 1 21:00:27 2015----
+Debug: Start Server UI  ----周五 四月 3 14:55:01 2015----
+Debug: Stop Server UI  ----周五 四月 3 14:55:03 2015----
+Debug: Start Server UI  ----周五 四月 3 14:56:23 2015----
+Debug: Stop Server UI  ----周五 四月 3 14:56:40 2015----
+Debug: Start Server UI  ----周五 四月 3 19:06:24 2015----
+Debug: Start Graph Dialog  ----周五 四月 3 19:06:26 2015----
+Debug: Stop Server UI  ----周五 四月 3 19:06:30 2015----
+Debug: Start Server UI  ----周一 四月 6 00:04:11 2015----
+Debug: Stop Server UI  ----周一 四月 6 00:04:13 2015----
